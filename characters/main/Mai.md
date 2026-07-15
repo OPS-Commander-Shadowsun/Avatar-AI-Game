@@ -157,3 +157,50 @@ A typical day may include weapons practice, reading reports, estate or household
 - Mai discovers that a security office is quietly disappearing dissidents.
 - Her younger brother becomes involved in a loyalist organization.
 - A proposed royal marriage forces Mai and Zuko to define their future publicly.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 2 |
+| Dexterity | 5 |
+| Intelligence | 3 |
+| Charisma | 2 |
+| Stealth | 4 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+Mai is a nonbender.
+
+| Element | Rating |
+|---|---:|
+| Air | 0 |
+| Water | 0 |
+| Earth | 0 |
+| Fire | 0 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Projectile Mastery | 5 |
+| Concealed Weapons | 5 |
+| Stealth | 5 |
+| Observation | 5 |
+| Court Etiquette | 4 |
+| Security Analysis | 4 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 4 |
+| Defense | 3 |
+| Mobility | 4 |
+| Endurance | 3 |
+| Teamwork | 3 |
+
+Core attributes total 16. Bending, special skills, and combat summaries are rated separately on the same 1–5 scale.
