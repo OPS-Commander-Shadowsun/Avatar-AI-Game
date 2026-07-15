@@ -202,3 +202,46 @@ Iroh is already a redeemed figure in many respects, but redemption does not eras
 - A former soldier asks Iroh to support a dangerous veterans' movement.
 - Lu Ten's memorial is desecrated for political purposes.
 - A spirit recognizes Iroh from an earlier journey and demands an old promise be fulfilled.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 4 |
+| Dexterity | 2 |
+| Intelligence | 5 |
+| Charisma | 4 |
+| Stealth | 1 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+| Element | Rating |
+|---|---:|
+| Fire | 5 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Leadership | 5 |
+| Strategy | 5 |
+| Spirituality | 5 |
+| Lightning Generation | 5 |
+| Lightning Redirection | 5 |
+| Diplomacy | 5 |
+| Teaching | 5 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 5 |
+| Defense | 5 |
+| Mobility | 3 |
+| Endurance | 5 |
+| Teamwork | 5 |
+
+Core attributes total 16. Bending, special skills, and combat ratings use the same 1–5 scale but are not part of that budget.
