@@ -14,6 +14,16 @@ Unofficial, non-commercial fan-made worldbuilding framework for an AI-driven tex
 
 This repository is a modular knowledge base for retrieval-augmented generation, prompt assembly, NPC simulation, quest generation, relationship mechanics, and persistent world state.
 
+It is a design and narrative-data repository, not a complete game client. A runtime should retrieve a small, scene-relevant subset of these documents, combine it with saved campaign state, and ask a language model to resolve the next turn.
+
+## Design goals
+
+- **A living postwar world:** factions and communities act even when the player is elsewhere.
+- **Character fidelity:** recognizable motives and limits matter more than player wish fulfilment.
+- **Consequential freedom:** diplomacy, travel, trade, investigation, training, combat, and relationships all change persistent state.
+- **Transparent provenance:** animated-series facts, campaign defaults, and generated events remain distinguishable.
+- **Modular retrieval:** each file answers one class of runtime question without requiring the entire repository in context.
+
 ## Content principles
 
 - Canon facts are separated from game-original extrapolation.
@@ -40,6 +50,8 @@ This repository is a modular knowledge base for retrieval-augmented generation, 
 ## Recommended runtime loading
 
 Load `SYSTEM_PROMPT.md`, `lore/canon_boundary.md`, `lore/world_state.md`, the current location file, nearby faction files, the active player sheet, and only the NPC profiles relevant to the current scene.
+
+See `docs/RUNTIME_GUIDE.md` for retrieval order, state ownership, turn processing, and continuity checks. Content authors should begin with `CONTRIBUTING.md`, `docs/CONTENT_GUIDE.md`, and the templates in `schemas/`.
 
 ## Legal note
 
