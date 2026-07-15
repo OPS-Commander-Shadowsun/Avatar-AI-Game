@@ -164,3 +164,51 @@ She deliberately creates informal time with her warriors so leadership does not 
 - A former Boiling Rock guard seeks protection and offers intelligence.
 - Sokka and Suki receive incompatible assignments during a crisis.
 - A spirit connected to Avatar Kyoshi disputes the modern Warriors' use of her legacy.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 3 |
+| Dexterity | 4 |
+| Intelligence | 3 |
+| Charisma | 3 |
+| Stealth | 3 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+Suki is a nonbender.
+
+| Element | Rating |
+|---|---:|
+| Air | 0 |
+| Water | 0 |
+| Earth | 0 |
+| Fire | 0 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Kyoshi Martial Arts | 5 |
+| Fan Combat | 5 |
+| Leadership | 4 |
+| Small-Unit Tactics | 5 |
+| Reconnaissance | 4 |
+| Protective Detail | 5 |
+| Survival | 4 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 4 |
+| Defense | 5 |
+| Mobility | 4 |
+| Endurance | 4 |
+| Teamwork | 5 |
+
+Core attributes total 16. Bending, special skills, and combat summaries are separate and use the same 1–5 scale.
