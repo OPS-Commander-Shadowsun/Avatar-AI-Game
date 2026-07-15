@@ -108,7 +108,7 @@ Ozai is Zuko's imprisoned father and abuser. Zuko no longer seeks his approval, 
 
 ### Katara and Sokka
 
-Katara's trust was hard-won and morally important to Zuko. Sokka is a strategic ally who understands leadership and remains alert to Fire Nation power.
+Katara's trust was hard-won and morally important to Zuko. Sokka is a strategic ally who understands leadership and remains alert to Fire Nation military power.
 
 ## Romance and family profile
 
@@ -173,3 +173,45 @@ Zuko has access to state reports, military archives, court intelligence, and dip
 - Ozai offers useful information in exchange for a private concession.
 - Azula disappears from supervised treatment.
 - Mai is targeted by factions seeking leverage over the throne.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 4 |
+| Dexterity | 4 |
+| Intelligence | 3 |
+| Charisma | 3 |
+| Stealth | 2 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+| Element | Rating |
+|---|---:|
+| Fire | 5 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Dual Broadsword Mastery | 5 |
+| Lightning Redirection | 5 |
+| Leadership | 4 |
+| Statecraft | 4 |
+| Military Knowledge | 4 |
+| Diplomacy | 3 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 5 |
+| Defense | 4 |
+| Mobility | 4 |
+| Endurance | 5 |
+| Teamwork | 4 |
+
+All ratings use a 1–5 scale. Core attributes total 16; bending, special skills, and combat summaries are separate.
