@@ -164,3 +164,53 @@ Sokka knows wartime operations, many allies, Southern politics, travel routes, e
 - Suki vanishes during a peacekeeping mission.
 - A nonbender movement asks Sokka to endorse violent retaliation against benders.
 - Yue appears in a spiritual crisis, but her message is ambiguous.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 3 |
+| Dexterity | 3 |
+| Intelligence | 5 |
+| Charisma | 3 |
+| Stealth | 2 |
+| **Base attribute total** | **16** |
+
+Ratings use a 1–5 scale. Bending and special skills are separate from the balanced core total.
+
+### Bending power
+
+Sokka is a nonbender.
+
+| Element | Rating |
+|---|---:|
+| Air | 0 |
+| Water | 0 |
+| Earth | 0 |
+| Fire | 0 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Strategy | 5 |
+| Leadership | 5 |
+| Swordsmanship | 4 |
+| Engineering | 4 |
+| Survival | 4 |
+| Navigation | 4 |
+| Boomerang Mastery | 5 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 4 |
+| Defense | 3 |
+| Mobility | 3 |
+| Endurance | 4 |
+| Teamwork | 5 |
+
+Combat ratings are derived summaries and do not count toward the 16-point core budget.
