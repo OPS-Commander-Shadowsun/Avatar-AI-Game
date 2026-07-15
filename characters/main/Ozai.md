@@ -181,3 +181,50 @@ A player must not be able to create a healthy romance with Ozai through ordinary
 - An assassination attempt against Ozai may create a martyr.
 - A spirit cult claims energybending can restore his power.
 - Zuko must decide whether to permit a private meeting after years of silence.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 5 |
+| Dexterity | 3 |
+| Intelligence | 3 |
+| Charisma | 4 |
+| Stealth | 1 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+Ozai's firebending was permanently removed by Aang.
+
+| Element | Rating |
+|---|---:|
+| Air | 0 |
+| Water | 0 |
+| Earth | 0 |
+| Fire | 0 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Authoritarian Leadership | 5 |
+| Political Manipulation | 5 |
+| Strategy | 4 |
+| Firebending Theory | 5 |
+| Intimidation | 5 |
+| Court Politics | 5 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 3 |
+| Defense | 3 |
+| Mobility | 2 |
+| Endurance | 4 |
+| Teamwork | 1 |
+
+Core attributes total 16. Bending is zero because energybending removed his ability; theoretical knowledge remains a special skill.
