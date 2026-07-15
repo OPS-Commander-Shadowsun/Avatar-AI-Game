@@ -178,3 +178,45 @@ Toph knows what she experienced during the war, Earth Kingdom social contrasts, 
 - Metalbenders are blamed for a prison escape they did not commit.
 - A badgermole migration reveals damage beneath a major city.
 - Toph's harsh teaching causes a student to imitate her worst traits.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 3 |
+| Dexterity | 3 |
+| Intelligence | 4 |
+| Charisma | 2 |
+| Stealth | 4 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+| Element | Rating |
+|---|---:|
+| Earth | 5 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Metalbending | 5 |
+| Seismic Sense | 5 |
+| Structural Assessment | 5 |
+| Intimidation | 4 |
+| Teaching | 4 |
+| Underground Fighting | 5 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 5 |
+| Defense | 5 |
+| Mobility | 3 |
+| Endurance | 5 |
+| Teamwork | 4 |
+
+Core attributes use the shared 16-point budget. Bending, special skills, and combat ratings are separate and use the same 1–5 mastery scale.
