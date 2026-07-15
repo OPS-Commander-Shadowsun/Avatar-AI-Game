@@ -1,48 +1,172 @@
-# Condensed Historical Timeline
+# Historical and Campaign Timeline
 
-This timeline supplies AI-relevant context without reproducing episode-by-episode scripts.
+This timeline provides AI-relevant continuity without reproducing episode scripts. Dates before the war are approximate where the animated series does not define a calendar.
 
-## Before the war
+## Era One — Before the Hundred Year War
 
-The Avatar cycle maintained an imperfect balance among the four nations. Fire Avatar Roku was a contemporary and former friend of Fire Lord Sozin. Sozin's expansionist ambitions created a lasting break between them. Roku eventually died during a volcanic disaster after Sozin withheld decisive aid.
+### The Four Nations
 
-## Air Nomad genocide and outbreak of war
+The Water Tribes, Earth Kingdom, Fire Nation, and Air Nomads develop distinct cultures shaped by geography, spirituality, technology, and bending. Trade, rivalry, migration, and conflict occur long before the modern war; the world is never perfectly peaceful.
 
-Aang, the next Avatar, fled the Southern Air Temple after learning that elders intended to separate him from Monk Gyatso. A storm forced Aang and Appa into an iceberg, where the Avatar State preserved them. During his absence, Sozin used the power of a comet to attack the Air Nomads and launched a global war. The Air Nomad population was destroyed, though the Fire Nation failed to find the Avatar.
+### The Avatar Cycle
 
-## A century of war
+Successive Avatars mediate disputes, confront spiritual crises, and influence political development. Their choices create both solutions and long-term consequences. The Avatar is respected across cultures but is not universally obeyed.
 
-The Fire Nation established colonies in Earth Kingdom territory and attacked both Water Tribes. Southern waterbenders were systematically captured. The Earth Kingdom resisted unevenly; many regions were isolated from central authority. Fire Nation society became increasingly militarized and propagandized.
+### Roku and Sozin
 
-## Return of the Avatar
+Fire Avatar Roku and Prince Sozin grow up as friends. Sozin later becomes Fire Lord and embraces overseas expansion. Roku opposes him and temporarily restrains his ambitions. Their friendship ends.
 
-Katara and Sokka discovered Aang in the Southern ocean. Prince Zuko, banished and ordered to capture the Avatar, began pursuing him with Iroh. Aang learned the fate of the Air Nomads and accepted his responsibility to master the remaining elements.
+Roku dies while fighting a volcanic disaster after Sozin refuses to provide decisive aid. The next Avatar is born among the Air Nomads.
 
-## Water journey
+## Era Two — Aang's Childhood and Disappearance
 
-Aang, Katara, and Sokka traveled north. They encountered occupied communities, spirits, Kyoshi Island, Omashu, Jet's resistance group, and Fire Nation forces. Katara received formal training in the Northern Water Tribe. Admiral Zhao attacked the North and killed the Moon Spirit's mortal form; balance was restored through Yue's sacrifice. Zhao was lost, and Zuko survived.
+Aang is raised at the Southern Air Temple under Monk Gyatso's care. Air Nomad elders reveal his identity earlier than usual because they anticipate international conflict.
 
-## Earth journey
+When the elders plan to separate him from Gyatso and accelerate his training, Aang flees with Appa. A storm drives them into the ocean. The Avatar State encloses them in ice and preserves them for approximately one hundred years.
 
-Toph Beifong joined the group and became Aang's earthbending teacher. Azula pursued Team Avatar and Zuko. Appa was separated from Aang, creating a long search across the Earth Kingdom. Ba Sing Se's secret police, the Dai Li, concealed the war from the Earth King. Azula seized control of the city through deception and political manipulation. Zuko sided with Azula during the confrontation beneath Ba Sing Se, and Aang was gravely wounded.
+## Era Three — Opening of the Hundred Year War
 
-## Fire journey
+Sozin uses the enhanced power of his comet to launch attacks on the Air Temples. The known Air Nomad population is destroyed. The Fire Nation fails to find the new Avatar.
 
-Team Avatar infiltrated the Fire Nation while preparing an invasion timed to a solar eclipse. The invasion failed after the capital had been evacuated, and many allies were captured. Zuko rejected Ozai, joined Team Avatar, and became Aang's firebending teacher after learning the original meaning of fire from the dragons. Members of the group confronted personal wounds and rescued prisoners.
+The Fire Nation expands into Earth Kingdom territory, establishes colonies and military routes, and attacks the Water Tribes.
 
-## End of the war
+## Era Four — The Century of War
 
-Ozai planned to use the returning comet to devastate Earth Kingdom lands and proclaimed himself Phoenix King. Iroh and the Order of the White Lotus liberated Ba Sing Se. Sokka, Toph, and Suki disabled the airship fleet. Zuko and Katara confronted Azula; Katara ultimately defeated her after Zuko was injured protecting Katara. Aang defeated Ozai and used energybending to remove his firebending. Zuko became Fire Lord and publicly committed the Fire Nation to peace and restoration.
+### Early and Middle War
 
-## Six-year bridge to campaign start
+Fire Nation occupation expands unevenly. Some Earth Kingdom regions remain independent; others become occupied, isolated, impoverished, or politically fragmented.
 
-No later-media events are assumed. The following are game-original defaults:
+Repeated Fire Nation raids capture or kill Southern Water Tribe waterbenders. The Southern population and military strength decline. The Northern Water Tribe remains defended and comparatively prosperous.
 
-- Zuko remains Fire Lord and has survived several political crises.
-- Aang has spent years mediating, restoring sacred sites, and training his non-airbending body and spirit.
-- Katara has become a renowned healer and waterbending master.
-- Sokka has worked as a strategist, envoy, inventor, and Southern representative.
-- Toph has refined metalbending but has not necessarily founded any later-known institution.
-- Suki and the Kyoshi Warriors undertake protection, escort, and peacekeeping work.
-- Iroh divides his time between tea, private counsel, and White Lotus responsibilities.
-- Azula's future remains unresolved and campaign-dependent.
+Fire Nation schools and institutions normalize imperial ideology. Several generations grow up believing conquest is honorable, inevitable, or beneficial.
+
+### Final Decades
+
+Ozai becomes Fire Lord after Azulon's death and Iroh's withdrawal from succession following the death of Lu Ten. Zuko is scarred and banished after refusing to fight his father in an Agni Kai. His impossible condition for return is the capture of the Avatar.
+
+## Era Five — Return of the Avatar
+
+### Awakening
+
+Katara and Sokka discover Aang near the Southern Water Tribe. Zuko begins pursuing him. Aang learns that one hundred years have passed and that the Air Nomads were destroyed.
+
+### Journey to the North
+
+Aang, Katara, and Sokka travel through occupied and independent communities. They encounter Kyoshi Island, Omashu, the Freedom Fighters, spirits, refugees, and Fire Nation forces.
+
+Katara receives formal Northern training after challenging restrictive custom. Admiral Zhao attacks the Northern Water Tribe. Yue sacrifices her mortal life to restore the Moon Spirit. Zhao disappears during the spiritual counterattack.
+
+### Journey through the Earth Kingdom
+
+Toph Beifong joins Team Avatar and becomes Aang's earthbending teacher. Azula pursues Aang, Zuko, and Iroh. Appa is captured and separated from the group.
+
+Ba Sing Se's Dai Li conceal the war from the Earth King. Long Feng preserves control through censorship and coercion. Azula infiltrates the city, gains control of the Dai Li, and engineers its fall.
+
+Zuko sides with Azula beneath Ba Sing Se. Aang is critically injured while entering the Avatar State and survives through Katara's healing water.
+
+### Fire Nation Infiltration and Failed Invasion
+
+Team Avatar hides in Fire Nation territory and prepares an invasion during a solar eclipse. The Fire Nation leadership anticipates the attack. The invasion fails and many allies are captured.
+
+Zuko confronts Ozai, rejects the ideology that defined his exile, and joins Team Avatar. He becomes Aang's firebending teacher after both learn from the surviving dragons and the Sun Warriors.
+
+### End of the War
+
+Ozai declares himself Phoenix King and plans to burn Earth Kingdom territory during the comet.
+
+The Order of the White Lotus liberates Ba Sing Se. Sokka, Toph, and Suki destroy the airship fleet. Zuko and Katara confront Azula. Zuko is injured protecting Katara, and Katara defeats Azula.
+
+Aang defeats Ozai and removes his firebending through energybending. Zuko is crowned Fire Lord and commits his nation to peace and restoration.
+
+## Era Six — Game-Original Postwar Bridge
+
+No comic or Legend of Korra events are binding. The following timeline is an original default that may be adjusted by the campaign.
+
+### Postwar Year 0 — Armistice and Shock
+
+- Fire Nation offensive operations cease under Zuko's orders.
+- Ozai is imprisoned and publicly stripped of power.
+- Azula survives but is removed from command; her treatment and legal status are kept tightly controlled.
+- Prisoners begin to return home.
+- Fire Nation units receive withdrawal, stand-down, or occupation-maintenance orders that are implemented unevenly.
+- The first disputes emerge over colonies, property, reparations, and military responsibility.
+- Team Avatar is celebrated publicly but quickly confronted by incompatible expectations.
+
+### Postwar Year 1 — The First Reconstruction Crisis
+
+- Refugee movements increase as people attempt to reclaim homes.
+- Local violence breaks out in several disputed settlements.
+- Zuko begins replacing senior officials and reviewing military commands.
+- Aang mediates conflicts but refuses demands that he impose a universal settlement by force.
+- The Southern Water Tribe begins larger rebuilding projects and seeks teachers, healers, tools, and ships.
+- Black markets in military equipment expand.
+
+### Postwar Year 2 — Political Retrenchment
+
+- Fire Nation traditionalists organize against rapid reform.
+- Earth Kingdom provinces dispute Ba Sing Se's authority and reconstruction priorities.
+- Trials and investigations expose collaborators and officials who profited from occupation.
+- Toph begins selectively teaching metalbending.
+- Suki and the Kyoshi Warriors accept more escort and peacekeeping missions beyond Kyoshi Island.
+- Aang encounters increasing conflict over Air Temple access and artifact removal.
+
+### Postwar Year 3 — Economic Strain
+
+- Demobilization creates unemployment among soldiers, ship crews, factory workers, and suppliers.
+- Trade resumes, but tariffs, piracy, damaged ports, and mutual distrust limit recovery.
+- Some former military officers become private guards, mercenaries, smugglers, or local strongmen.
+- Northern support accelerates Southern reconstruction but creates fears of cultural domination.
+- Katara's reputation as a healer and master expands across national boundaries.
+
+### Postwar Year 4 — The Memory Struggle
+
+- Schools, monuments, public ceremonies, and official histories become political battlegrounds.
+- Younger Fire Nation citizens question wartime education; others resent what they see as national humiliation.
+- Earth Kingdom revenge movements and mixed-community defense groups both gain support.
+- White Lotus members debate whether their order should become more publicly active.
+- Rumors concerning Azula inspire loyalists, enemies, and opportunists.
+
+### Postwar Year 5 — Fragile Stabilization
+
+- Several trade corridors reopen.
+- Some regions experience genuine recovery, while others remain dominated by violence or corruption.
+- Zuko survives at least one serious political crisis and becomes more experienced, guarded, and deliberate.
+- Aang develops stronger diplomatic habits but remains resistant to becoming a ruler.
+- Team Avatar members increasingly pursue separate responsibilities, though their bonds remain strong.
+
+### Postwar Year 6 — Campaign Start
+
+The game begins during the anniversary period of Ozai's defeat and Zuko's coronation.
+
+Default central ages:
+
+- Aang: 18, excluding the century spent frozen;
+- Toph: 18;
+- Katara: approximately 20;
+- Azula: approximately 20;
+- Sokka: approximately 21;
+- Zuko: approximately 22;
+- Suki, Mai, and Ty Lee: adults in their early twenties.
+
+## Campaign-Start Pressure Points
+
+- disputed land and citizenship;
+- hidden Ozai loyalists;
+- Azula's unresolved future;
+- provincial Earth Kingdom resistance to central control;
+- Northern and Southern Water Tribe tensions;
+- damaged sacred sites and spirit disturbances;
+- war crimes, missing persons, and concealed collaboration;
+- unemployment among demobilized forces;
+- industrial pollution and resource competition;
+- pressure on adult Team Avatar members to marry, govern, represent, or produce heirs;
+- public expectations that the Avatar solve political problems instantly.
+
+## Timeline Simulation Rules
+
+- Record every campaign date and travel duration.
+- Do not compress weeks or months without acknowledging consequences.
+- Political and personal events continue while the player travels.
+- Injuries, pregnancies, construction, training, investigations, and institutional reform require believable time.
+- Anniversaries and festivals affect public emotion and security.
+- Canon characters remember the war according to their own experiences, not as omniscient viewers.
