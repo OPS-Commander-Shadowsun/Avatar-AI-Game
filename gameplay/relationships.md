@@ -1,8 +1,12 @@
 # Relationship System
 
+## Purpose
+
+Relationships are persistent, directional, and consequence-driven. A's feelings toward B may differ from B's feelings toward A. No character exists solely to reward the player.
+
 ## Relationship dimensions
 
-Track relationships per direction; A's feelings toward B may differ from B's feelings toward A.
+Track when relevant:
 
 - Familiarity: 0–100
 - Trust: -100 to 100
@@ -14,33 +18,69 @@ Track relationships per direction; A's feelings toward B may differ from B's fee
 - Resentment: 0–100
 - Dependency: 0–100
 
-## Progression
+Values describe tendencies, not automatic actions. High affection does not erase low trust. High attraction does not create consent. Fear may produce obedience without loyalty.
 
-Romance cannot be purchased or unlocked through one correct dialogue choice. Progress should arise from time, compatibility, honesty, shared risk, demonstrated care, and respect for boundaries.
+## How relationships change
 
-Suggested stages:
+Relationship change should follow witnessed or credibly reported behavior. Important influences include honesty, reliability, compatibility, shared risk, care, betrayal, humiliation, respect for boundaries, political choices, and treatment of third parties.
 
-1. Stranger
-2. Acquaintance
-3. Familiar companion
-4. Trusted friend
-5. Mutual attraction
-6. Courtship or dating
-7. Committed partnership
-8. Engagement or equivalent cultural promise
-9. Marriage or long-term union
-10. Shared household or family
+Charisma can improve communication and first impressions, but it cannot purchase love, erase history, or bypass established commitments.
 
-Stages may reverse. Breakups, reconciliation, jealousy, distance, competing duties, grief, and incompatible goals are valid outcomes.
+## Stages
+
+Possible stages include stranger, acquaintance, familiar companion, trusted friend, rival, mutual attraction, courtship, committed partnership, engagement or cultural equivalent, marriage or long-term union, and shared household or family.
+
+Stages may reverse. Distance, jealousy, competing duties, incompatible values, grief, betrayal, or changed life goals can produce conflict, separation, or breakup.
+
+## Friendship
+
+Friendship requires reciprocal interest and time. Friends can disagree, refuse requests, maintain other loyalties, and need space. A player who contacts an NPC only for favors should not receive the same trust as someone who shares responsibility and care.
+
+## Rivalry
+
+Rivalry may be respectful, hostile, ideological, professional, or romantic only when mutual. Repeated humiliation or sabotage increases resentment and may turn competition into enmity.
+
+## Romance
+
+Romance cannot be unlocked through one dialogue choice, gifts alone, or high Charisma. It requires adult participants, compatibility, mutual attraction, trust, timing, and freedom to choose.
+
+Existing relationships matter. A character does not abandon a partner because the player repeatedly flirts. Changed relationship paths require honest development and consequences for everyone involved.
 
 ## Consent
 
-Consent must be informed, voluntary, specific, reversible, and given by adults with capacity. Power imbalance matters. A prisoner, patient, subordinate under threat, intoxicated person, or magically controlled person cannot provide valid consent.
+Consent must be informed, voluntary, specific, reversible, enthusiastic enough to be credible, and given by adults with capacity. Prisoners, patients under dependency, intoxicated people, threatened subordinates, magically controlled people, and anyone unable to understand the situation cannot provide valid consent.
 
-## Canon relationships at campaign start
+Power imbalance must be acknowledged. A ruler, commander, healer, jailer, teacher, or employer bears additional responsibility.
 
-The animated finale establishes strong romantic bonds between Aang and Katara and between Sokka and Suki, while Zuko and Mai have an established history. Six years later, their exact status is a campaign default rather than immutable destiny. The default world state treats Aang and Katara as together, Sokka and Suki as together but frequently separated by duty, and Zuko and Mai as in a complicated relationship. Changes require plausible history or gameplay.
+## Intimacy
+
+Sexual intimacy is non-graphic and handled through optional fade-to-black narration. The simulation should focus on trust, boundaries, emotional meaning, contraception or pregnancy concerns where relevant, privacy, cultural expectations, and later consequences.
+
+## Marriage and long-term union
+
+Marriage is not a universal reward state. It may involve family approval, cultural ritual, law, property, political attention, residence, duties, and decisions about children. Both partners retain autonomy after commitment.
+
+## Breakups and reconciliation
+
+Breakups can result from incompatibility without either person becoming a villain. Reconciliation requires changed behavior, accountability, renewed consent, and time. An apology alone does not restore prior values.
+
+## NPC initiative
+
+NPCs may initiate conversation, friendship, romance, conflict, separation, proposals, boundaries, or requests. They also maintain work, family, faction, and political obligations unrelated to the player.
+
+## Canon relationship defaults
+
+At campaign start, Aang and Katara are together by default; Sokka and Suki are together but often separated by duty; Zuko and Mai have a complicated established relationship. These are defaults rather than immutable destiny, but changes require credible history or gameplay.
 
 ## Orientation
 
-Do not invent a fixed orientation where the animated series does not establish one. Use `not established` and let attraction emerge from the simulation's compatibility model. Never treat openness as automatic attraction to the player.
+Where animated canon does not establish a fixed orientation, record `not established`. Let attraction emerge from the compatibility model. Openness never means automatic attraction to the player.
+
+## AI rules
+
+- Track relationships in both directions.
+- Distinguish attraction from affection, trust, and commitment.
+- Preserve boundaries and existing obligations.
+- Do not make gifts or successful checks function as mind control.
+- Let NPCs remember patterns, not only isolated choices.
+- Record major promises, betrayals, proposals, breakups, and reconciliations in persistent state.
