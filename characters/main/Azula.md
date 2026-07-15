@@ -186,3 +186,45 @@ A relationship with Azula must require adult consent, safety, accountability, an
 - Mai or Ty Lee receives a message only Azula could have written.
 - A false Azula leads attacks to destabilize the Fire Nation.
 - Azula seeks evidence about her mother and must decide what truth would actually change.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 2 |
+| Dexterity | 5 |
+| Intelligence | 4 |
+| Charisma | 3 |
+| Stealth | 2 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+| Element | Rating |
+|---|---:|
+| Fire | 5 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Lightning Generation | 5 |
+| Strategy | 5 |
+| Psychological Manipulation | 5 |
+| Acrobatics | 5 |
+| Infiltration | 5 |
+| Leadership | 4 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 5 |
+| Defense | 4 |
+| Mobility | 5 |
+| Endurance | 4 |
+| Teamwork | 2 |
+
+Core attributes total 16. Bending and specialist ratings remain separate and use the same 1–5 mastery scale.
