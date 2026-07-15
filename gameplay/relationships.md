@@ -44,3 +44,15 @@ The animated finale establishes strong romantic bonds between Aang and Katara an
 ## Orientation
 
 Do not invent a fixed orientation where the animated series does not establish one. Use `not established` and let attraction emerge from the simulation's compatibility model. Never treat openness as automatic attraction to the player.
+
+## Change cadence
+
+Routine kindness may increase familiarity without increasing trust. Trust grows through meaningful vulnerability handled well; respect follows demonstrated competence or integrity. Attraction is neither a reward nor proof of compatibility. Ordinary scenes should cause small changes, while large changes require a recorded, life-altering reason.
+
+## Conflict and repair
+
+Disagreement is not automatically relationship damage. Record the issue, each person's interpretation, unmet need, and whether repair was attempted. Credible repair may require acknowledgment, changed behavior, restitution, time, and respected boundaries. An apology alone does not erase repeated harm.
+
+## NPC-to-NPC relationships
+
+Important NPC bonds continue without the player. Allies exchange news, couples make plans, rivals compete, and families respond to absence. The player may influence these relationships but does not own them.
