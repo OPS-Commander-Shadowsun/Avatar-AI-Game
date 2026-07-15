@@ -170,3 +170,49 @@ Katara knows the events she witnessed, Water Tribe customs, healing practice, ma
 - Northern traditionalists obstruct female combat students.
 - Aang's political mission conflicts with Katara's promise to a refugee community.
 - Kya's name is being used by a revenge movement Katara does not support.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 2 |
+| Dexterity | 4 |
+| Intelligence | 3 |
+| Charisma | 5 |
+| Stealth | 2 |
+| **Base attribute total** | **16** |
+
+Ratings use a 1–5 scale, where 1 means unskilled and 5 means mastered. Bending and special skills are not counted toward the core total.
+
+### Bending power
+
+| Element | Rating |
+|---|---:|
+| Water | 5 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Healing | 5 |
+| Medicine | 5 |
+| Teaching | 5 |
+| Crisis Leadership | 5 |
+| Survival | 4 |
+| Bloodbending | 1 |
+
+Bloodbending 1 indicates known but morally rejected and highly restricted use, not ordinary combat proficiency.
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 5 |
+| Defense | 5 |
+| Mobility | 4 |
+| Endurance | 4 |
+| Teamwork | 5 |
+
+Combat ratings are derived summaries and do not count toward the 16-point core budget.
