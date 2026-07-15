@@ -166,3 +166,50 @@ She benefits from periods in which she can choose clothing, activities, and comp
 - Kyoshi Warrior discipline conflicts with Ty Lee's need for individuality.
 - Azula requests a meeting with Ty Lee under controlled conditions.
 - A diplomat mistakes Ty Lee's friendliness for consent and creates an international incident.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 2 |
+| Dexterity | 5 |
+| Intelligence | 2 |
+| Charisma | 4 |
+| Stealth | 3 |
+| **Base attribute total** | **16** |
+
+### Bending power
+
+Ty Lee is a nonbender.
+
+| Element | Rating |
+|---|---:|
+| Air | 0 |
+| Water | 0 |
+| Earth | 0 |
+| Fire | 0 |
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Chi Blocking | 5 |
+| Acrobatics | 5 |
+| Infiltration | 5 |
+| Social Perception | 5 |
+| Performance | 4 |
+| Nonlethal Capture | 5 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 4 |
+| Defense | 4 |
+| Mobility | 5 |
+| Endurance | 4 |
+| Teamwork | 4 |
+
+Core attributes total 16. Bending, special skills, and combat ratings are separate and use the same 1–5 scale.
