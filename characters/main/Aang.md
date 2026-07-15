@@ -181,3 +181,52 @@ Aang knows the events he witnessed, information shared by allies, and matters he
 - A violent cult claims to enforce the Avatar's will.
 - Appa responds to evidence that another sky bison may exist.
 - Aang must choose between a prestigious summit and a remote village ignored by every government.
+
+## Character stats
+
+### Core attributes
+
+| Attribute | Rating |
+|---|---:|
+| Strength | 2 |
+| Dexterity | 5 |
+| Intelligence | 3 |
+| Charisma | 4 |
+| Stealth | 2 |
+| **Base attribute total** | **16** |
+
+Ratings use a 1–5 scale, where 1 means unskilled and 5 means mastered. Core attributes are balanced to the same total for every main character. Bending and special skills are not counted toward this total.
+
+### Bending power
+
+| Element | Rating |
+|---|---:|
+| Air | 5 |
+| Water | 5 |
+| Earth | 5 |
+| Fire | 5 |
+
+Only the Avatar receives a separate rating for every element.
+
+### Special skills
+
+| Skill | Rating |
+|---|---:|
+| Spirituality | 5 |
+| Animal Handling | 5 |
+| Energybending | 5 |
+| Diplomacy | 5 |
+| Acrobatics | 5 |
+| Glider Flight | 5 |
+
+### Combat profile
+
+| Category | Rating |
+|---|---:|
+| Offense | 5 |
+| Defense | 5 |
+| Mobility | 5 |
+| Endurance | 4 |
+| Teamwork | 5 |
+
+Combat ratings summarize practical performance and are not part of the 16-point core-attribute budget.
